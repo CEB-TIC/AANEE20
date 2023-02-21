@@ -202,7 +202,7 @@ div[data-v-d1615be0] {
 }
 
 
-.AANEE_ALUMNE-editItem-neeb[data-v-faece498] {
+.AANEE_ALUMNE-editItem-neeb[data-v-02b6b518] {
     padding: 4px;
     margin-left:20px;
     max-width:1200px;
@@ -215,6 +215,7 @@ div[data-v-d1615be0] {
     'ENTREVISTAR_NEEB  DATATRUCADA_NEEB      INSCRIT_ORDINARI_GEDAC       INSCRIPCIOFINAL_NEEB          INSCRIPCIOFINAL_NEEB'
     'ESTA_RAV          ID_ESTAT_RAV          ID_ESTAT_VULNERABLE          ID_ESTAT_PLAXOC               ID_MOTIU_VULNERABILITAT_RAV'
     'RENDA_MINIMA      RENDA_MINIMA_VALIDAT  ACOLLIMENT_FAMILIAR          ACOLLIMENT_FAMILIAR_VALIDAT   SITUACIO_ACOLLIMENT'
+    'OBS_NEEB          OBS_NEEB              OBS_NEEB                     OBS_NEEB                      OBS_NEEB'
 }
 
 
@@ -1417,7 +1418,7 @@ div[data-v-d1615be0] {
   max-width: 1200px;
   grid-template-columns: 15% 22% 20% 22% 11% 8%;
   grid-column-gap: 6px;
-  grid-template-areas: "REPORT   REPORT      CENTRE       CENTRE    CENTRE         IDALU" "INDEX    DESCRIPCIO  TITULARITAT  PEROPCIO  MODIFICACIONS  MODIFICACIONS" "BOTONS   BOTONS      BOTONS       BOTONS    BOTONS         BOTONS" "VISOR    VISOR       VISOR        VISOR     VISOR          VISOR";
+  grid-template-areas: "REPORT   REPORT      TIT          CENTRE    CENTRE         IDALU" "INDEX    DESCRIPCIO  TITULARITAT  PEROPCIO  MODIFICACIONS  MODIFICACIONS" "BOTONS   BOTONS      BOTONS       BOTONS    BOTONS         BOTONS" "VISOR    VISOR       VISOR        VISOR     VISOR          VISOR";
 }
 
 .dialogLoading-overlay[data-v-69be9a34] {
