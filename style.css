@@ -1051,7 +1051,7 @@ div[data-v-d1615be0] {
   margin: 10px 5px;
 }
 
-.loadData[data-v-59a95d83] {
+.loadData[data-v-7d87a061] {
   box-sizing: border-box;
   height: calc(100% - 30px);
   border: 4px dashed var(--neutral-tertiary, #a19f9d);
@@ -1062,18 +1062,18 @@ div[data-v-d1615be0] {
   align-items: center;
   justify-content: center;
 }
-.loadData label[data-v-59a95d83] {
+.loadData label[data-v-7d87a061] {
   pointer-events: none;
   user-select: none;
 }
-.dragging[data-v-59a95d83] {
+.dragging[data-v-7d87a061] {
   border-color: var(--theme-tertiary, #71afe5);
   color: var(--theme-tertiary, #71afe5);
 }
-.formFile[data-v-59a95d83] {
+.formFile[data-v-7d87a061] {
   display: none;
 }
-.base[data-v-59a95d83] {
+.base[data-v-7d87a061] {
   box-sizing: border-box;
   overflow: auto;
   margin: 0;
