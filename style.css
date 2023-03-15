@@ -129,7 +129,7 @@ div[data-v-d1615be0] {
 }
 
 
-.AANEE_ALUMNE-editItem-general[data-v-2ef1330c] {
+.AANEE_ALUMNE-editItem-general[data-v-3e4ebab0] {
     padding: 4px;
     margin-top: 2px;
     margin-left:4px;
@@ -212,7 +212,7 @@ div[data-v-d1615be0] {
 }
 
 
-.AANEE_ALUMNE-editItem-neeb[data-v-02b6b518] {
+.AANEE_ALUMNE-editItem-neeb[data-v-43c15ae4] {
     padding: 4px;
     margin-left:20px;
     max-width:1200px;
@@ -479,24 +479,24 @@ div[data-v-d1615be0] {
       "CODI_CENTRE  NOM_CENTRE        NOM_CENTRE   NOM_CENTRE   NOM_CENTRE"
       "GRUPS        OFERTA_ORDINARIA  OFERTA_NEEA  OFERTA_NEEB  OFERTA_NEE";
   }
-.detailsViewSelect-navTop[data-v-5c441279] {
+.detailsViewSelect-navTop[data-v-68c44180] {
   display: flex;
   flex-direction: column-reverse;
 }
-.detailsViewSelect-navBottom[data-v-5c441279] {
+.detailsViewSelect-navBottom[data-v-68c44180] {
   display: flex;
   flex-direction: column;
 }
-.detailsViewSelect-navigation[data-v-5c441279] {
+.detailsViewSelect-navigation[data-v-68c44180] {
   display: flex;
 }
-.detailsViewSelect-navigation.detailsViewSelect-left[data-v-5c441279] {
+.detailsViewSelect-navigation.detailsViewSelect-left[data-v-68c44180] {
   justify-content: flex-start;
 }
-.detailsViewSelect-navigation.detailsViewSelect-center[data-v-5c441279] {
+.detailsViewSelect-navigation.detailsViewSelect-center[data-v-68c44180] {
   justify-content: center;
 }
-.detailsViewSelect-navigation.detailsViewSelect-right[data-v-5c441279] {
+.detailsViewSelect-navigation.detailsViewSelect-right[data-v-68c44180] {
   justify-content: flex-end;
 }
 
@@ -507,17 +507,17 @@ div[data-v-d1615be0] {
   transform: translateX(-100%);
 }
 
-.layoutDetails-commandBar[data-v-bbf1883a] {
+.layoutDetails-commandBar[data-v-700a86e8] {
   position: sticky;
   top: 0;
   z-index: 10;
   box-sizing: border-box;
   border-bottom: 2px solid var(--theme-primary, #0078d4);
 }
-.layoutDetails-contextualManu[data-v-bbf1883a] {
+.layoutDetails-contextualManu[data-v-700a86e8] {
   position: absolute;
 }
-.layoutDetails-contextualManu.overloaded[data-v-bbf1883a] {
+.layoutDetails-contextualManu.overloaded[data-v-700a86e8] {
   transform: translateX(-100%);
 }
 
