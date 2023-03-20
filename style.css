@@ -112,6 +112,10 @@ div[data-v-d1615be0] {
   right: 0px !important;
 }
 
+.field[data-v-5c155343] .fura-wrapper::after {
+  right: 0px !important;
+}
+
 .field[data-v-a34b1a5c] .fura-wrapper::after {
   right: 0px !important;
 }
@@ -129,7 +133,7 @@ div[data-v-d1615be0] {
 }
 
 
-.AANEE_ALUMNE-editItem-general[data-v-3e4ebab0] {
+.AANEE_ALUMNE-editItem-general[data-v-42a98c30] {
     padding: 4px;
     margin-top: 2px;
     margin-left:4px;
@@ -1233,6 +1237,43 @@ div[data-v-d1615be0] {
   width: 220px;
   margin-left: 12px;
   margin-top: 12px;
+}
+.cela {
+  box-sizing: border-box;
+  padding: 0px 12px 0px 12px;
+  margin: 0;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  outline: 0;
+}
+.fura-left .cela {
+  justify-content: flex-start;
+}
+.fura-center .cela {
+  justify-content: center;
+}
+.fura-right .cela {
+  justify-content: flex-end;
+}
+
+.botons {
+  display: flex;
+  justify-content: center;
+}
+.botoMoviment {
+  height: 24px;
+  width: 120px;
+  margin-left: 12px;
+  margin-top: 12px;
+  height: 30px;
+}
+.boto {
+  height: 24px;
+  width: 190px;
+  margin-left: 12px;
+  margin-top: 12px;
+  height: 30px;
 }
 .cela {
   box-sizing: border-box;
