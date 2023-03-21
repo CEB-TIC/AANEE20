@@ -279,7 +279,7 @@ div[data-v-d1615be0] {
 }
 
 
-.AANEE_ALUMNE-editItem-assignacio[data-v-32f1260b] {
+.AANEE_ALUMNE-editItem-assignacio[data-v-1dcf9c60] {
     padding: 4px;
     margin-top: -4px;
     margin-left: 10px;
@@ -288,12 +288,13 @@ div[data-v-d1615be0] {
     grid-template-columns: 15% 15% 15% 20% 15% 15%;
     grid-column-gap: 6px;
     grid-template-areas:
-    '.                      .                           .                            .                           .                           DISTANCIES'
+    '.                      .                           .                           .                           .                           DISTANCIES'
     'LABEL_ASSIGNACIO_CEB   ID_CENTRE_ASSIGNAT_CEBCodi  ID_CENTRE_ASSIGNAT_CEBNom   ID_CENTRE_ASSIGNAT_CEBNom   ID_CENTRE_ASSIGNAT_CEBNom   DISTANCIA_CENTRE_ASSIGNAT_CEB'
     'LABEL_ASSIGNACIO       ID_CENTRE_ASSIGNATCodi      ID_CENTRE_ASSIGNATNom       ID_CENTRE_ASSIGNATNom       ID_CENTRE_ASSIGNATNom       DISTANCIA_ASSIGNACIO'
     'LABEL_1AOPCIO          ID_CENTRE_1AOPCIOCodi       ID_CENTRE_1AOPCIONom        ID_CENTRE_1AOPCIONom        ID_CENTRE_1AOPCIONom        DISTANCIA_CENTRE_1AOPCIO'
-    'GRUPASSIGNACIO         ORDRE_ASSIGNACIO            TIPUS_ASSIGNACIO            OPCIO_ASSIGNACIO            ASSIGNACIO_OFICI            LLISTA_ESPERA';
-}
+    'GRUPASSIGNACIO         ORDRE_ASSIGNACIO            TIPUS_ASSIGNACIO            OPCIO_ASSIGNACIO            ASSIGNACIO_OFICI            LLISTA_ESPERA'
+    '.                      .                           .                           .                           ASSIGNACIO_MANUAL_GEDAC     ASSIGNACIO_MANUAL_GEDAC';
+};
 
 
 .AANEE_ALUMNE-editItem-layout-observacions[data-v-74083f44] {
