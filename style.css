@@ -1456,7 +1456,7 @@ div[data-v-d1615be0] {
 }
 
 
-.AANEE_ASSIGNACIO_PLACES[data-v-56317502] {
+.AANEE_ASSIGNACIO_PLACES[data-v-1773370c] {
     display: grid;
     margin: auto;
     width: fit-content;
@@ -1465,17 +1465,17 @@ div[data-v-d1615be0] {
     grid-column-gap: 6px;
     grid-template-areas:
       "calcul  adscripcioNEEA  adscripcioNEEB  TIPUSGEDAC  DESEMPAT    CALCULAR"
-      "REPORT  REPORT          ID_CENTRE       ID_CENTRE   ID_CENTRE   ID_NIVELL"
+      "REPORT  REPORT           ID_ETAPA       ID_NIVELL   ID_CENTRE   ID_CENTRE"
       "BOTONS  BOTONS          BOTONS          BOTONS      BOTONS      BOTONS"
       "VISOR   VISOR           VISOR           VISOR       VISOR       VISOR";
 }
-.excel[data-v-56317502] {
+.excel[data-v-1773370c] {
   --theme-primary: green;
 }
-.error[data-v-56317502] {
+.error[data-v-1773370c] {
   color: #a4262c;
 }
-.form[data-v-56317502] {
+.form[data-v-1773370c] {
   padding: 4px;
   margin-top: 2px;
   margin-left:4px;
