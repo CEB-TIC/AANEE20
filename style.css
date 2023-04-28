@@ -133,18 +133,18 @@ div[data-v-d1615be0] {
 }
 
 
-.AANEE_ALUMNE-editItem-general[data-v-42a98c30] {
+.AANEE_ALUMNE-editItem-general[data-v-aaab3aa0] {
     padding: 4px;
     margin-top: 2px;
     margin-left:4px;
     max-width:1080px;
     display: grid;
-    grid-template-columns: 12% 17% 14% 14% 17% 8% 15%;
+    grid-template-columns: 12% 17% 14% 14% 17% 12% 13%;
     grid-column-gap: 6px;
     grid-template-areas:
       'IDALU         NOM                        COGNOM1                    COGNOM1                    COGNOM2                  COGNOM2              COGNOM2'
       'ID_ORIGEN     TIPUS_ALUMNE               ID_NIVELL                  DATA_NAIXEMENT             ID_EAP                   ID_EAP               ID_EAP'
-      'LABEL_MARCA   MARCA_AUTO                 MARCA_AUTO                 MARCA_AUTO                 MARCA_MANUAL             MARCA_FINAL          MARCA_FINAL'
+      'LABEL_MARCA   MARCA_AUTO                 MARCA_AUTO                 MARCA_AUTO                 MARCA_MANUAL             MARCA_FINAL          CREATED'
       'errorMessage  errorMessage               errorMessage               errorMessage               errorMessage             errorMessage         errorMessage'
 }
 
